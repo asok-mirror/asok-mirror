@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello World 👋
 
-<!--
-**asok-mirror/asok-mirror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some thoughts to say, 
 
-Here are some ideas to get you started:
+Why so much pain, inaccessability and inequality amoung us ?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Life is short, lets give a support hand to each of us and find a technoology solution for the better future. 
+
+Strong believer of Aritifical Intelligence and Blockchain technolgies for the better world.
+
+Lets keep learning, help others and develop together
+
+Current weekend work,
+
+Exploring monitoring solution for my current automated ML application.
