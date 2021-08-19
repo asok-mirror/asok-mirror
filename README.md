@@ -10,6 +10,4 @@ Strong believer of Aritifical Intelligence and Blockchain technolgies for the be
 
 Lets keep learning, help others and develop together
 
-Current weekend work,
 
-Exploring monitoring solution for my current automated ML application.
