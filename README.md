@@ -8,6 +8,6 @@ Life is short, lets give a support hand to each of us and find a technoology sol
 
 Strong believer of Aritifical Intelligence and Blockchain technolgies for the better world.
 
-Lets keep learning, help others and develop together
+Lets keep learning, help others and develop together.
 
 
