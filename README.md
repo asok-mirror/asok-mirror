@@ -12,4 +12,4 @@ humanity is above all <3
 
 medium posts @ https://medium.com/@asok.kalidass
 
-old profile @ asokkalidass.com
+old profile @ [asokkalidass.com](https://web.cs.dal.ca/~kalisamy/)
