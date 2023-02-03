@@ -9,3 +9,7 @@ A strong believer in Artificial Intelligence and Blockchain technologies for a b
 Let's keep learning, help others and develop together.
 
 humanity is above all <3
+
+medium posts @ https://medium.com/@asok.kalidass
+
+old profile @ asokkalidass.com
